@@ -14,10 +14,11 @@ Update: 03 November 2024
 
 ## Installation
 
-1.  pip install git+https://github.com/doan-van/Koppen-Geiger-climate-classification.git
+1.  Install directly from Github:
 
-2. Or download the 
-3. Install the package using pip:
+   ```pip install git+https://github.com/doan-van/Koppen-Geiger-climate-classification.git```
+
+3. Or download the package then install it using pip:
     ```bash
     pip install .
     ```
